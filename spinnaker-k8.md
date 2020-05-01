@@ -328,6 +328,5 @@ Error: could not find a ready tiller pod
 - https://thenewstack.io/getting-started-spinnaker-kubernetes/
 - [Spinnaker](https://www.spinnaker.io/)  as the multicloud deployment tool.
 - [Helm](https://github.com/kubernetes/helm) 
-- [Helm | Using Helm](https://helm.sh/docs/intro/using_helm/)
-- [Helm | Migrating Helm v2 to v3](https://helm.sh/docs/topics/v2_v3_migration/)
-- [Helm |](https://v2.helm.sh/docs/using_helm/) 
+- [Helm - Using Helm](https://helm.sh/docs/intro/using_helm/)
+- [Helm - Migrating Helm v2 to v3](https://helm.sh/docs/topics/v2_v3_migration/)
