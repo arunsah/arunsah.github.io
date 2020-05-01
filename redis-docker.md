@@ -35,8 +35,8 @@ $ docker exec -it CONTAINER_ID /bin/bash
 ### References
 - [Docker Hub](https://hub.docker.com/_/redis/)
 - [Spring Boot Redis Cache - JournalDev](https://www.journaldev.com/18141/spring-boot-redis-cache)
-- [Embedded Redis Server with Spring Boot Test | Baeldung](https://www.baeldung.com/spring-embedded-redis)
+- [Embedded Redis Server with Spring Boot Test - Baeldung](https://www.baeldung.com/spring-embedded-redis)
 - https://hub.docker.com/_/redis/
 - [Redis Cheat Sheet](https://lzone.de/cheat-sheet/Redis)
-- [A Foundational Look At Cluster Architecture | Redis Labs](https://redislabs.com/redis-enterprise/technology/redis-enterprise-cluster-architecture/)
+- [A Foundational Look At Cluster Architecture - Redis Labs](https://redislabs.com/redis-enterprise/technology/redis-enterprise-cluster-architecture/)
 - [Scaling a High-traffic Rate Limiting Stack with Redis Cluster — Brandur Leach](https://brandur.org/redis-cluster)
