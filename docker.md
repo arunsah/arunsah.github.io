@@ -282,7 +282,7 @@ apk add curl-doc
 ### References
 - https://kubernetes.io/docs/home/
 - https://docs.docker.com/
-- [Dockerfile reference | Docker Documentation](https://docs.docker.com/engine/reference/builder/)
+- [Dockerfile reference - Docker Documentation](https://docs.docker.com/engine/reference/builder/)
 - https://stackoverflow.com/questions/55462654/cant-access-minikube-loadbalancer-service-from-host-machine
 - https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.10/#service-v1-core
 - https://hub.docker.com/r/tutum/hello-world/
