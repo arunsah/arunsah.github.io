@@ -30,6 +30,7 @@ Server Version: version.Info{Major:"1", Minor:"15", GitVersion:"v1.15.5", GitCom
 ### Creating Docker Image and Container
 - Use image at https://hub.docker.com/r/tutum/hello-world/
 - Valid ports is 30000-32767 to expose services on Kubernetes cluster for NodePort.
+
 ```
 $ docker run -d -p 31313:80 tutum/hello-world
 
