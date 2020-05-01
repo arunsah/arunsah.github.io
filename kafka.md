@@ -34,7 +34,7 @@ $ ~/app/kafka_2.13-2.4.0/bin/kafka-console-consumer.sh --bootstrap-server localh
 hello world!!!
 
 
-~/bin/kafka_2.13-2.4.0/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 \
+$ ~/app/kafka_2.13-2.4.0/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 \
     --topic helloworld-topic \
     --from-beginning \
     --formatter kafka.tools.DefaultMessageFormatter \
