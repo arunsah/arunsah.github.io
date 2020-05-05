@@ -200,6 +200,101 @@ $ curl --location --request GET 'http://localhost:30002/greeting-service/actuato
 $ ab -H 'username: mario' -n 100 -c 10 'http://localhost:30002/greeting-service/hello'
 ```
 
+### Memory Usage on Kubernetes Cluster
+
+```
+$ kubectl describe nodes
+Name:               docker-desktop
+Roles:              master
+Labels:             beta.kubernetes.io/arch=amd64
+                    beta.kubernetes.io/os=linux
+                    kubernetes.io/arch=amd64
+                    kubernetes.io/hostname=docker-desktop
+                    kubernetes.io/os=linux
+                    node-role.kubernetes.io/master=
+Annotations:        kubeadm.alpha.kubernetes.io/cri-socket: /var/run/dockershim.sock
+                    node.alpha.kubernetes.io/ttl: 0
+                    volumes.kubernetes.io/controller-managed-attach-detach: true
+CreationTimestamp:  Tue, 05 May 2020 13:33:24 +0530
+Taints:             <none>
+Unschedulable:      false
+Lease:
+  HolderIdentity:  docker-desktop
+  AcquireTime:     <unset>
+  RenewTime:       Tue, 05 May 2020 21:21:02 +0530
+Conditions:
+  Type             Status  LastHeartbeatTime                 LastTransitionTime                Reason                       Message
+  ----             ------  -----------------                 ------------------                ------                       -------
+  MemoryPressure   False   Tue, 05 May 2020 21:20:37 +0530   Tue, 05 May 2020 13:33:20 +0530   KubeletHasSufficientMemory   kubelet has sufficient memory available
+  DiskPressure     False   Tue, 05 May 2020 21:20:37 +0530   Tue, 05 May 2020 13:33:20 +0530   KubeletHasNoDiskPressure     kubelet has no disk pressure
+  PIDPressure      False   Tue, 05 May 2020 21:20:37 +0530   Tue, 05 May 2020 13:33:20 +0530   KubeletHasSufficientPID      kubelet has sufficient PID available
+  Ready            True    Tue, 05 May 2020 21:20:37 +0530   Tue, 05 May 2020 13:33:20 +0530   KubeletReady                 kubelet is posting ready status
+Addresses:
+  InternalIP:  192.168.65.3
+  Hostname:    docker-desktop
+Capacity:
+  cpu:                5
+  ephemeral-storage:  61255492Ki
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  memory:             12271740Ki
+  pods:               110
+Allocatable:
+  cpu:                5
+  ephemeral-storage:  56453061334
+  hugepages-1Gi:      0
+  hugepages-2Mi:      0
+  memory:             12169340Ki
+  pods:               110
+System Info:
+  Machine ID:                 8c5e387a-bfc2-43b6-b2c1-76e46c1c8ec9
+  System UUID:                2e2c4a86-0000-0000-ba0b-b54adcbbbce9
+  Boot ID:                    3587f277-045e-4efd-9586-81c9dab556f6
+  Kernel Version:             4.19.76-linuxkit
+  OS Image:                   Docker Desktop
+  Operating System:           linux
+  Architecture:               amd64
+  Container Runtime Version:  docker://19.3.8
+  Kubelet Version:            v1.15.5
+  Kube-Proxy Version:         v1.15.5
+Non-terminated Pods:          (24 in total)
+  Namespace                   Name                                      CPU Requests  CPU Limits    Memory Requests  Memory Limits     AGE
+  ---------                   ----                                      ------------  ----------    ---------------  -------------     ---
+  default                     myapp-v1-796dd8845c-xzcsh                 0 (0%)        0 (0%)        0 (0%)           0 (0%)            6h25m
+  default                     myapp-v2-ff68b5b69-nkfr2                  0 (0%)        0 (0%)        0 (0%)           0 (0%)            6h25m
+  docker                      compose-7b7c5cbbcc-ttwkz                  0 (0%)        0 (0%)        0 (0%)           0 (0%)            7h46m
+  docker                      compose-api-dbbf7c5db-5r4sh               0 (0%)        0 (0%)        0 (0%)           0 (0%)            7h46m
+  istio-system                grafana-584949b9c6-rs25v                  10m (0%)      0 (0%)        0 (0%)           0 (0%)            6h50m
+  istio-system                istio-citadel-7998dbbd9c-x4kmd            10m (0%)      0 (0%)        0 (0%)           0 (0%)            6h50m
+  istio-system                istio-egressgateway-769fd9869f-vrk4z      10m (0%)      2 (40%)       40Mi (0%)        1Gi (8%)          6h50m
+  istio-system                istio-galley-5cb68c8bdb-tsk6h             10m (0%)      0 (0%)        0 (0%)           0 (0%)            6h50m
+  istio-system                istio-ingressgateway-67c9b549cb-8p2r8     10m (0%)      2 (40%)       40Mi (0%)        1Gi (8%)          6h50m
+  istio-system                istio-pilot-6d84c7c7d7-kxf5d              20m (0%)      2 (40%)       140Mi (1%)       1Gi (8%)          6h50m
+  istio-system                istio-policy-bd4db6dff-2x2kl              20m (0%)      2 (40%)       140Mi (1%)       1Gi (8%)          6h50m
+  istio-system                istio-sidecar-injector-69c57976b-xcz7h    10m (0%)      0 (0%)        0 (0%)           0 (0%)            6h50m
+  istio-system                istio-telemetry-57fb5464f4-ljr47          60m (1%)      6800m (136%)  140Mi (1%)       5073741824 (40%)  6h50m
+  istio-system                istio-tracing-68ffb9d456-dnzpq            10m (0%)      0 (0%)        0 (0%)           0 (0%)            6h50m
+  istio-system                kiali-7d4cf866cc-9dllr                    10m (0%)      0 (0%)        0 (0%)           0 (0%)            6h50m
+  istio-system                prometheus-8685f659f-m6gjl                10m (0%)      0 (0%)        0 (0%)           0 (0%)            6h50m
+  kube-system                 coredns-5c98db65d4-r4zkh                  100m (2%)     0 (0%)        70Mi (0%)        170Mi (1%)        7h47m
+  kube-system                 coredns-5c98db65d4-tssln                  100m (2%)     0 (0%)        70Mi (0%)        170Mi (1%)        7h47m
+  kube-system                 etcd-docker-desktop                       0 (0%)        0 (0%)        0 (0%)           0 (0%)            7h46m
+  kube-system                 kube-apiserver-docker-desktop             250m (5%)     0 (0%)        0 (0%)           0 (0%)            7h46m
+  kube-system                 kube-controller-manager-docker-desktop    200m (4%)     0 (0%)        0 (0%)           0 (0%)            7h46m
+  kube-system                 kube-proxy-tlcxp                          0 (0%)        0 (0%)        0 (0%)           0 (0%)            7h47m
+  kube-system                 kube-scheduler-docker-desktop             100m (2%)     0 (0%)        0 (0%)           0 (0%)            7h46m
+  kube-system                 storage-provisioner                       0 (0%)        0 (0%)        0 (0%)           0 (0%)            7h46m
+Allocated resources:
+  (Total limits may be over 100 percent, i.e., overcommitted.)
+  Resource           Requests    Limits
+  --------           --------    ------
+  cpu                940m (18%)  14800m (296%)
+  memory             640Mi (5%)  9497290Ki (78%)
+  ephemeral-storage  0 (0%)      0 (0%)
+Events:              <none>
+
+```
+
 ### Minukube
 
 ```
