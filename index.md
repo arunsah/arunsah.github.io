@@ -3,6 +3,10 @@ Welcome to my github page. Here will contains code snipets/some blogs/tutorials/
 
 ---
 ### Content
+
+Language
+- [Go](go.md)
+
 Primary Tools
 - [Docker and Kubernetes](docker.md)
 - [Spinnaker on K8](spinnaker-k8.md)
