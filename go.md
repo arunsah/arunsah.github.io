@@ -114,14 +114,307 @@ hello world
 ```
 
 
-### The Go Programming Language Specification
-**Version of Jan 14, 2020** https://golang.org/ref/spec
 
- [Introduction](https://golang.org/ref/spec#Introduction), [Notation](https://golang.org/ref/spec#Notation), [Source code representation](https://golang.org/ref/spec#Source_code_representation), [Characters](https://golang.org/ref/spec#Characters), [Letters and digits](https://golang.org/ref/spec#Letters_and_digits), [Lexical elements](https://golang.org/ref/spec#Lexical_elements), [Comments](https://golang.org/ref/spec#Comments), [Tokens](https://golang.org/ref/spec#Tokens), [Semicolons](https://golang.org/ref/spec#Semicolons), [Identifiers](https://golang.org/ref/spec#Identifiers), [Keywords](https://golang.org/ref/spec#Keywords), [Operators and punctuation](https://golang.org/ref/spec#Operators_and_punctuation), [Integer literals](https://golang.org/ref/spec#Integer_literals), [Floating-point literals](https://golang.org/ref/spec#Floating-point_literals), [Imaginary literals](https://golang.org/ref/spec#Imaginary_literals), [Rune literals](https://golang.org/ref/spec#Rune_literals), [String literals](https://golang.org/ref/spec#String_literals), [Constants](https://golang.org/ref/spec#Constants), [Variables](https://golang.org/ref/spec#Variables), [Types](https://golang.org/ref/spec#Types), [Method sets](https://golang.org/ref/spec#Method_sets), [Boolean types](https://golang.org/ref/spec#Boolean_types), [Numeric types](https://golang.org/ref/spec#Numeric_types), [String types](https://golang.org/ref/spec#String_types), [Array types](https://golang.org/ref/spec#Array_types), [Slice types](https://golang.org/ref/spec#Slice_types), [Struct types](https://golang.org/ref/spec#Struct_types), [Pointer types](https://golang.org/ref/spec#Pointer_types) [Function types](https://golang.org/ref/spec#Function_types), [Interface types](https://golang.org/ref/spec#Interface_types), [Map types](https://golang.org/ref/spec#Map_types), [Channel types](https://golang.org/ref/spec#Channel_types), [Properties of types and values](https://golang.org/ref/spec#Properties_of_types_and_values), [Type identity](https://golang.org/ref/spec#Type_identity), [Assignability](https://golang.org/ref/spec#Assignability), [Representability](https://golang.org/ref/spec#Representability), [Blocks](https://golang.org/ref/spec#Blocks), [Declarations and scope](https://golang.org/ref/spec#Declarations_and_scope), [Label scopes](https://golang.org/ref/spec#Label_scopes), [Blank identifier](https://golang.org/ref/spec#Blank_identifier), [Predeclared identifiers](https://golang.org/ref/spec#Predeclared_identifiers), [Exported identifiers](https://golang.org/ref/spec#Exported_identifiers), [Uniqueness of identifiers](https://golang.org/ref/spec#Uniqueness_of_identifiers), [Constant declarations](https://golang.org/ref/spec#Constant_declarations), [Iota](https://golang.org/ref/spec#Iota), [Type declarations](https://golang.org/ref/spec#Type_declarations), [Variable declarations](https://golang.org/ref/spec#Variable_declarations), [Short variable declarations](https://golang.org/ref/spec#Short_variable_declarations), [Function declarations](https://golang.org/ref/spec#Function_declarations), [Method declarations](https://golang.org/ref/spec#Method_declarations), [Expressions](https://golang.org/ref/spec#Expressions), [Operands](https://golang.org/ref/spec#Operands), [Qualified identifiers](https://golang.org/ref/spec#Qualified_identifiers), [Composite literals](https://golang.org/ref/spec#Composite_literals), [Function literals](https://golang.org/ref/spec#Function_literals), [Primary expressions](https://golang.org/ref/spec#Primary_expressions), [Selectors](https://golang.org/ref/spec#Selectors), [Method expressions](https://golang.org/ref/spec#Method_expressions), [Method values](https://golang.org/ref/spec#Method_values), [Index expressions](https://golang.org/ref/spec#Index_expressions), [Slice expressions](https://golang.org/ref/spec#Slice_expressions), [Type assertions](https://golang.org/ref/spec#Type_assertions), [Calls](https://golang.org/ref/spec#Calls), [Passing arguments to … parameters](https://golang.org/ref/spec#Passing_arguments_to_..._parameters), [Operators](https://golang.org/ref/spec#Operators), [Arithmetic operators](https://golang.org/ref/spec#Arithmetic_operators), [Comparison operators](https://golang.org/ref/spec#Comparison_operators), [Logical operators](https://golang.org/ref/spec#Logical_operators), [Address operators](https://golang.org/ref/spec#Address_operators), [Receive operator](https://golang.org/ref/spec#Receive_operator), [Conversions](https://golang.org/ref/spec#Conversions), [Constant expressions](https://golang.org/ref/spec#Constant_expressions), [Order of evaluation](https://golang.org/ref/spec#Order_of_evaluation), [Statements](https://golang.org/ref/spec#Statements), [Terminating statements](https://golang.org/ref/spec#Terminating_statements), [Empty statements](https://golang.org/ref/spec#Empty_statements), [Labeled statements](https://golang.org/ref/spec#Labeled_statements), [Expression statements](https://golang.org/ref/spec#Expression_statements), [Send statements](https://golang.org/ref/spec#Send_statements), [IncDec statements](https://golang.org/ref/spec#IncDec_statements), [Assignments](https://golang.org/ref/spec#Assignments), [If statements](https://golang.org/ref/spec#If_statements), [Switch statements](https://golang.org/ref/spec#Switch_statements), [For statements](https://golang.org/ref/spec#For_statements), [Go statements](https://golang.org/ref/spec#Go_statements), [Select statements](https://golang.org/ref/spec#Select_statements), [Return statements](https://golang.org/ref/spec#Return_statements), [Break statements](https://golang.org/ref/spec#Break_statements), [Continue statements](https://golang.org/ref/spec#Continue_statements), [Goto statements](https://golang.org/ref/spec#Goto_statements), [Fallthrough statements](https://golang.org/ref/spec#Fallthrough_statements), [Defer statements](https://golang.org/ref/spec#Defer_statements), [Built-in functions](https://golang.org/ref/spec#Built-in_functions), [Close](https://golang.org/ref/spec#Close), [Length and capacity](https://golang.org/ref/spec#Length_and_capacity), [Allocation](https://golang.org/ref/spec#Allocation), [Making slices, maps and channels](https://golang.org/ref/spec#Making_slices_maps_and_channels), [Appending to and copying slices](https://golang.org/ref/spec#Appending_and_copying_slices), [Deletion of map elements](https://golang.org/ref/spec#Deletion_of_map_elements), [Manipulating complex numbers](https://golang.org/ref/spec#Complex_numbers), [Handling panics](https://golang.org/ref/spec#Handling_panics), [Bootstrapping](https://golang.org/ref/spec#Bootstrapping), [Packages](https://golang.org/ref/spec#Packages), [Source file organization](https://golang.org/ref/spec#Source_file_organization), [Package clause](https://golang.org/ref/spec#Package_clause), [Import declarations](https://golang.org/ref/spec#Import_declarations), [An example package](https://golang.org/ref/spec#An_example_package), [Program initialization and execution](https://golang.org/ref/spec#Program_initialization_and_execution), [The zero value](https://golang.org/ref/spec#The_zero_value), [Package initialization](https://golang.org/ref/spec#Package_initialization), [Program execution](https://golang.org/ref/spec#Program_execution), [Errors](https://golang.org/ref/spec#Errors), [Run-time panics](https://golang.org/ref/spec#Run_time_panics), [System considerations](https://golang.org/ref/spec#System_considerations), [Package unsafe](https://golang.org/ref/spec#Package_unsafe), [Size and alignment guarantees](https://golang.org/ref/spec#Size_and_alignment_guarantees) 
+### Cheatsheet
+#### Variables
+
+```go
+// variable declaration
+var msg string
+msg = "hello world"
+
+// variable declaration and initiaization
+msg:= "hello world"
+
+```
+
+#### Constants
+```go
+const Pi = 3.141
+```
+
+#### Basic Type
+```go
+// string
+msg:= "hello world"
+// multi-line string
+msg:= `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.`
+
+// numbers
+num:= 42					// int
+num:= 42.					// float64
+num:= 42 + 3i				// complex128
+num:= byte('A')			// byte, alias for uint8
+
+var age uint = 26			// uint
+var pi float32 = 3.141	// float32
+
+// arrays have fixed size
+nums := [...]int{1,2,3,4,5}
+nums := [5]int{1,2,3,4,5}
+
+// slices have dynamic size
+nums := []int{1,2,3,4,5}
+data := []byte("hello world")
+
+
+```
+
+
+##### Pointers
+``` go
+// pointers point to a memor location of a variable.
+// go is garbage-collected language 
+func main(){
+	b := *getValueByReference()
+	...
+}
+
+func getValueByReference() (x *int){
+	value:= 42
+	return &value
+}
+```
+
+##### Type Conversions
+```go
+iNum := 42
+fNum := float64(iNum)
+uNum := uint(iNum)
+
+```
+
+
+#### Control Flow and Loop Example
+
+##### FizzBuzz example
+- if else
+- for loop
+- conversion from int to string
+- printing message
+```go
+// FizzBuzz program: for i= 1 to 20, 
+// if i is multiple of 3 and 5 then print 'Fizz buzz', 
+// if i is numtiple of 3 then print 'fizz', 
+// if i is numtiple of 5 then print 'buzz' 
+// else print the number
+package main
+
+import (
+    "fmt"
+    "strconv"
+)
+
+func main() {
+    fmt.Println("hello world")
+
+    var msg string
+    for num := 0; num <= 20; num++ {
+        if num%3 == 0 && num%5 == 0 {
+            msg = "fizz buzz"
+        } else if num%3 == 0 {
+            msg = "fizz"
+        } else if num%5 == 0 {
+            msg = "buzz"
+        } else {
+            // conveting number to string
+            msg = strconv.Itoa(num)
+            //msg = strconv.FormatInt(int64(num), 10)
+        }
+        fmt.Println(msg)
+        //fmt.Printf("%v\n", msg)
+    }
+}
+
+```
+
+```go
+// statements in if: condition in if can be preceded with a statement before ;
+if _, err := getResult(); err != nil{
+	// handle error
+}
+
+
+// switch
+day := "sunday"
+switch day {
+case "saturday":
+    fallthrough // cases doesnot fall by default
+case "sunday":
+    msg = "weekend"
+default:
+    msg = "workday"
+}
+
+
+// for loop
+for i:= 0; i<10; i++}
+	//...
+}
+
+// for range loop
+names := []string{"tom", "jerry", "nibbles", "droopy"}
+for index, name := range names {
+    fmt.Printf("%d, %s\n", index, name)
+}
+
+```
+
+#### Functions
+
+##### Lambda
+```go
+// legal voting age is 18 in India
+canVote := func(age int) bool { return age >= 18 }
+age := 17
+fmt.Printf("Age: %v, can vote: %v\n", age, canVote(age))
+
+```
+
+##### Multiple return types
+```go
+fmt.Println(getName()) // Michael Jackson
+a, b := getName()
+fmt.Printf("First name: %v, Last name: %v\n", a, b) // First name: Michael, Last name: Jackson
+
+func getName() (firstName, lastName string) {
+    return "Michael", "Jackson"
+}
+
+// by defining return value identifier in signatiure,
+// return statement with no args will return variables with those identifier name
+func getSize() (width, height float64) {
+    width = 32
+    height = 30
+    return
+}
+fmt.Println(getSize())	// 32 30
+
+```
+
+
+#### Packages
+```go
+// import statement per package
+import "fmt"
+import "math/rand"
+
+// import statement grouped together
+import (
+	"fmt"		//fmt.Println
+	"math/rand"	//rand.Intn
+)
+
+// import with alias
+import randomNumber "math/rand" 	// randomNumber.Intn
+
+
+// every package file starts with package name
+package main
+
+// Function with Capital names are exposes in the package
+
+```
+
+##### Exposing Methods
+```go
+
+//---------- directory structure ----------------
+arsah-Mac:hello_world arsah$ tree
+.
+├── hello
+│   └── Hello.go		//package hello
+├── hello_world
+└── hello_world.go	//package main
+
+//---------- ./hello/Hello.go ----------------
+package hello
+
+/*
+Hello return string "hello"
+*/
+func Hello() string { // method name must start with upper case
+						// to expose the method outside package
+						// Documentation is compulsory
+    return "hello"
+}
+
+//---------- ./hello_world.go ----------------
+package main
+
+import (
+    hello "./hello"				//exposing via alias
+)
+
+func main() {
+    fmt.Println(hello.Hello())
+}
+
+```
+
+#### Concurrency
+##### Go routines
+- channels are concurrency safe communication objects
+- buffered channels limit size of channel (cannot be over-filled. `messageQueue := make(chan string, 10)`
+- over-reading or reading closed channel gives: `// fatal error: all goroutines are asleep - deadlock!`
+
+```go
+func publish(message string, messageQueue chan string) {
+    messageQueue <- "Hello, " + message + "! "
+}
+
+// create channel
+messageQueue := make(chan string)
+
+// start concurrent go routines
+// publish to channel
+// order of execution is not guranted
+go publish("tom", messageQueue)
+go publish("jerry", messageQueue)
+go publish("droopy", messageQueue)
+go publish("nibbles", messageQueue)
+
+// read from channel/messageQueue
+fmt.Println(<-messageQueue,
+    <-messageQueue,
+    <-messageQueue,
+    <-messageQueue)
+// Hello, nibbles!  Hello, tom!  Hello, jerry!  Hello, droopy!
+// Hello, nibbles!  Hello, jerry!  Hello, droopy!  Hello, tom!
+
+
+// iterates across a channel until its closed
+for msg := range messageQueue { // iterated until closed
+    fmt.Println(msg)
+}
+
+// read with repetation
+for true {
+    if greetingMsg, isClosed := <-messageQueue; isClosed != false {
+        fmt.Println(greetingMsg)
+        // close(messageQueue) // shutdown channel
+        if isClosed == true {
+            break //break loop
+        }
+    }
+}
+
+```
+
+#### References
+- [Go cheatsheet](https://devhints.io/go)
+- [A Tour of Go](https://tour.golang.org/basics/1)
+- https://www.lipsum.com/
+
+
+### The Go Programming Language Specification
+**Version of Jan 14, 2020** [https://golang.org/ref/spec](https://golang.org/ref/spec)
+
+[Introduction](https://golang.org/ref/spec#Introduction), [Notation](https://golang.org/ref/spec#Notation), [Source code representation](https://golang.org/ref/spec#Source_code_representation), [Characters](https://golang.org/ref/spec#Characters), [Letters and digits](https://golang.org/ref/spec#Letters_and_digits), [Lexical elements](https://golang.org/ref/spec#Lexical_elements), [Comments](https://golang.org/ref/spec#Comments), [Tokens](https://golang.org/ref/spec#Tokens), [Semicolons](https://golang.org/ref/spec#Semicolons), [Identifiers](https://golang.org/ref/spec#Identifiers), [Keywords](https://golang.org/ref/spec#Keywords), [Operators and punctuation](https://golang.org/ref/spec#Operators_and_punctuation), [Integer literals](https://golang.org/ref/spec#Integer_literals), [Floating-point literals](https://golang.org/ref/spec#Floating-point_literals), [Imaginary literals](https://golang.org/ref/spec#Imaginary_literals), [Rune literals](https://golang.org/ref/spec#Rune_literals), [String literals](https://golang.org/ref/spec#String_literals), [Constants](https://golang.org/ref/spec#Constants), [Variables](https://golang.org/ref/spec#Variables), [Types](https://golang.org/ref/spec#Types), [Method sets](https://golang.org/ref/spec#Method_sets), [Boolean types](https://golang.org/ref/spec#Boolean_types), [Numeric types](https://golang.org/ref/spec#Numeric_types), [String types](https://golang.org/ref/spec#String_types), [Array types](https://golang.org/ref/spec#Array_types), [Slice types](https://golang.org/ref/spec#Slice_types), [Struct types](https://golang.org/ref/spec#Struct_types), [Pointer types](https://golang.org/ref/spec#Pointer_types) [Function types](https://golang.org/ref/spec#Function_types), [Interface types](https://golang.org/ref/spec#Interface_types), [Map types](https://golang.org/ref/spec#Map_types), [Channel types](https://golang.org/ref/spec#Channel_types), [Properties of types and values](https://golang.org/ref/spec#Properties_of_types_and_values), [Type identity](https://golang.org/ref/spec#Type_identity), [Assignability](https://golang.org/ref/spec#Assignability), [Representability](https://golang.org/ref/spec#Representability), [Blocks](https://golang.org/ref/spec#Blocks), [Declarations and scope](https://golang.org/ref/spec#Declarations_and_scope), [Label scopes](https://golang.org/ref/spec#Label_scopes), [Blank identifier](https://golang.org/ref/spec#Blank_identifier), [Predeclared identifiers](https://golang.org/ref/spec#Predeclared_identifiers), [Exported identifiers](https://golang.org/ref/spec#Exported_identifiers), [Uniqueness of identifiers](https://golang.org/ref/spec#Uniqueness_of_identifiers), [Constant declarations](https://golang.org/ref/spec#Constant_declarations), [Iota](https://golang.org/ref/spec#Iota), [Type declarations](https://golang.org/ref/spec#Type_declarations), [Variable declarations](https://golang.org/ref/spec#Variable_declarations), [Short variable declarations](https://golang.org/ref/spec#Short_variable_declarations), [Function declarations](https://golang.org/ref/spec#Function_declarations), [Method declarations](https://golang.org/ref/spec#Method_declarations), [Expressions](https://golang.org/ref/spec#Expressions), [Operands](https://golang.org/ref/spec#Operands), [Qualified identifiers](https://golang.org/ref/spec#Qualified_identifiers), [Composite literals](https://golang.org/ref/spec#Composite_literals), [Function literals](https://golang.org/ref/spec#Function_literals), [Primary expressions](https://golang.org/ref/spec#Primary_expressions), [Selectors](https://golang.org/ref/spec#Selectors), [Method expressions](https://golang.org/ref/spec#Method_expressions), [Method values](https://golang.org/ref/spec#Method_values), [Index expressions](https://golang.org/ref/spec#Index_expressions), [Slice expressions](https://golang.org/ref/spec#Slice_expressions), [Type assertions](https://golang.org/ref/spec#Type_assertions), [Calls](https://golang.org/ref/spec#Calls), [Passing arguments to … parameters](https://golang.org/ref/spec#Passing_arguments_to_..._parameters), [Operators](https://golang.org/ref/spec#Operators), [Arithmetic operators](https://golang.org/ref/spec#Arithmetic_operators), [Comparison operators](https://golang.org/ref/spec#Comparison_operators), [Logical operators](https://golang.org/ref/spec#Logical_operators), [Address operators](https://golang.org/ref/spec#Address_operators), [Receive operator](https://golang.org/ref/spec#Receive_operator), [Conversions](https://golang.org/ref/spec#Conversions), [Constant expressions](https://golang.org/ref/spec#Constant_expressions), [Order of evaluation](https://golang.org/ref/spec#Order_of_evaluation), [Statements](https://golang.org/ref/spec#Statements), [Terminating statements](https://golang.org/ref/spec#Terminating_statements), [Empty statements](https://golang.org/ref/spec#Empty_statements), [Labeled statements](https://golang.org/ref/spec#Labeled_statements), [Expression statements](https://golang.org/ref/spec#Expression_statements), [Send statements](https://golang.org/ref/spec#Send_statements), [IncDec statements](https://golang.org/ref/spec#IncDec_statements), [Assignments](https://golang.org/ref/spec#Assignments), [If statements](https://golang.org/ref/spec#If_statements), [Switch statements](https://golang.org/ref/spec#Switch_statements), [For statements](https://golang.org/ref/spec#For_statements), [Go statements](https://golang.org/ref/spec#Go_statements), [Select statements](https://golang.org/ref/spec#Select_statements), [Return statements](https://golang.org/ref/spec#Return_statements), [Break statements](https://golang.org/ref/spec#Break_statements), [Continue statements](https://golang.org/ref/spec#Continue_statements), [Goto statements](https://golang.org/ref/spec#Goto_statements), [Fallthrough statements](https://golang.org/ref/spec#Fallthrough_statements), [Defer statements](https://golang.org/ref/spec#Defer_statements), [Built-in functions](https://golang.org/ref/spec#Built-in_functions), [Close](https://golang.org/ref/spec#Close), [Length and capacity](https://golang.org/ref/spec#Length_and_capacity), [Allocation](https://golang.org/ref/spec#Allocation), [Making slices, maps and channels](https://golang.org/ref/spec#Making_slices_maps_and_channels), [Appending to and copying slices](https://golang.org/ref/spec#Appending_and_copying_slices), [Deletion of map elements](https://golang.org/ref/spec#Deletion_of_map_elements), [Manipulating complex numbers](https://golang.org/ref/spec#Complex_numbers), [Handling panics](https://golang.org/ref/spec#Handling_panics), [Bootstrapping](https://golang.org/ref/spec#Bootstrapping), [Packages](https://golang.org/ref/spec#Packages), [Source file organization](https://golang.org/ref/spec#Source_file_organization), [Package clause](https://golang.org/ref/spec#Package_clause), [Import declarations](https://golang.org/ref/spec#Import_declarations), [An example package](https://golang.org/ref/spec#An_example_package), [Program initialization and execution](https://golang.org/ref/spec#Program_initialization_and_execution), [The zero value](https://golang.org/ref/spec#The_zero_value), [Package initialization](https://golang.org/ref/spec#Package_initialization), [Program execution](https://golang.org/ref/spec#Program_execution), [Errors](https://golang.org/ref/spec#Errors), [Run-time panics](https://golang.org/ref/spec#Run_time_panics), [System considerations](https://golang.org/ref/spec#System_considerations), [Package unsafe](https://golang.org/ref/spec#Package_unsafe), [Size and alignment guarantees](https://golang.org/ref/spec#Size_and_alignment_guarantees) 
 
 ### Go Standard library
 [Packages - The Go Programming Language](https://golang.org/pkg/)
-
 
 
 - [archive](https://golang.org/pkg/archive/)
@@ -311,7 +604,7 @@ These packages are part of the Go Project but outside the main Go tree. They are
 	- [Language Specification](https://golang.org/ref/spec): The official Go Language specification.
 	- [The Go Memory Model](https://golang.org/ref/mem): A document that specifies the conditions under which reads of a variable in one goroutine can be guaranteed to observe values produced by writes to the same variable in a different goroutine.
 	- [Release History](https://golang.org/doc/devel/release.html): A summary of the changes between Go releases.
-- [API Resources for Go Developers | API Guide](https://www.moesif.com/blog/api-guide/development/api-resources-for-go-developers/)
+- [API Resources for Go Developers - API Guide](https://www.moesif.com/blog/api-guide/development/api-resources-for-go-developers/)
 - https://flaviocopes.com/golang-tutorial-rest-api/
 - [Making a RESTful JSON API in Go – The New Stack](https://thenewstack.io/make-a-restful-json-api-go/)
 
