@@ -193,6 +193,8 @@ uNum := uint(iNum)
 - for loop
 - conversion from int to string
 - printing message
+
+
 ```go
 // FizzBuzz program: for i= 1 to 20, 
 // if i is multiple of 3 and 5 then print 'Fizz buzz', 
