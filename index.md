@@ -5,7 +5,8 @@ Welcome to my github page. Here will contains code snipets/some blogs/tutorials/
 ### Content
 
 Language
-- [Go](go.md)
+- [Go Cheatsheet](go.md)
+- [Go Notes](gonotes.md)
 
 Primary Tools
 - [Docker and Kubernetes](docker.md)
