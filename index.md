@@ -1,16 +1,13 @@
 # arunsah.github.io
-Welcome to my github page. Here will contains code snipets/some blogs/tutorials/quickstart.
+Hi, this is Arun. Welcome to my github page. These pages will contains quickstarts/code snipets/some blogs/tutorials/notes/references.
 
 ---
-### Content
+
+## Table of Contents
 
 Language
 - [Go Cheatsheet](go.md)
 - [Go Notes](gonotes.md)
-
-Primary Tools
-- [Docker and Kubernetes](docker.md)
-- [Spinnaker on K8](spinnaker-k8.md)
 
 Database
 - [Cassandra in Docker](cassandra-docker.md)
@@ -22,7 +19,10 @@ Message Broker/Stream Processor
 Linux/shell
 - [Shell](shell.md)
 
+Deployment Tools
+- [Docker and Kubernetes](docker.md)
+- [Spinnaker on K8](spinnaker-k8.md)
 
-#### References:
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- https://github.blog/2013-01-31-relative-links-in-markup-files/
+Markdown
+- [Markdown Cheatsheet](markdown.md)
+
