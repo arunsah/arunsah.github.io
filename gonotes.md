@@ -5,36 +5,36 @@
 
 ## Table of Content
 
-1. Getting Started
-1. Understanding Types
-1. Understanding Variables
-1. Using Functions in Go
-1. Using Control Flow
-1. Working with Arrays, Slices, and Maps
-1. Using Structs and Pointers
-1. Creating Methods and Interfaces
-1. Working with Strings
+1. Introduction
+1. Date types
+1. Variables
+1. Functions
+1. Control Statements
+1. Arrays, Slices, and Maps
+1. Structs and Pointers
+1. Methods and Interfaces
+1. Strings
 1. Handling Errors
-1. Working with Goroutines
+1. Goroutines
 1. Introducing Channels
-1. Using Packages for Code Reuse
+1. Packages for Code Reuse
 1. Naming Conventions in Go
 1. Testing and Performance
 1. Debugging
-1. Using Command-Line Programs
-1. Creating HTTP Servers
-1. Creating HTTP Clients with Go
-1. Working with JSON
-1. Working with Files
+1. Command-Line Programs
+1. HTTP Servers
+1. HTTP Clients with Go
+1. JSON
+1. Files
 1. Introducing Regular Expressions
 1. Programming Time in Go
 1. Deploying Go Code
-1. Creating a RESTful JSON API
-1. Creating a TCP Chat Server
+1. A RESTful JSON API
+1. A TCP Chat Server
 1. References
 
 
-## 1. Getting Started
+## 1. Introduction
 
 ### Introduction
 
@@ -64,7 +64,7 @@
 
 
 
-## 2. Understanding Types
+## 2. Date types
 
 #### Type of a Variables.
 
@@ -88,7 +88,7 @@ var status2 string = strconv.FormatBool(is_enabled)
 
 
 
-## 3. Understanding Variables
+## 3. Variables
 
 - All data types have default values known as zero valued.
 	- Boolean: false, Integer: 0, Float: 0.0, String: “”.
@@ -133,7 +133,7 @@ Go pointers!
 
 
 
-## 4. Using Functions in Go
+## 4. Functions
 
 - Function name are optional but required to be called at other places.
 - Can returns multiple values.
@@ -213,7 +213,7 @@ fmt.Println(apply(3, cube))   // 27
 
 
 
-## 5. Using Control Flow
+## 5. Control Statements
 
 - if statements in Go can include both a condition and an initialisation statement. 
 
@@ -270,7 +270,7 @@ fmt.Println(4)
 
 
 
-## 6. Working with Arrays, Slices, and Maps
+## 6. Arrays, Slices, and Maps
 
 - Arrays
 
@@ -369,7 +369,7 @@ mango 200
 
 
 
-## 7. Using Structs and Pointers
+## 7. Structs and Pointers
 
 - Struct of different types cannot be compared (compile time error). Better to check type of struct before comparison using `reflect`  package.
 - When struct is initialised, memory is allocated for the data elements with default values in struct. A pointer to the memory is returned and assigned to variable name.
@@ -468,7 +468,7 @@ tom, refTom :: {Name:Ref tom FavouriteFruit:{Name:Grape Price:160}} and &{Name:R
 
 
 
-## 8. Creating Methods and Interfaces
+## 8. Methods and Interfaces
 
 - A method is similar to function but have parameter section immediately after `func` keyword that accepts a single argument known as receiver. A method receiver is a type.
 - A method set are available to a data type promotes code reuse and modularisation.
@@ -556,7 +556,7 @@ func main() {
 
 
 
-## 9. Working with Strings
+## 9. Strings
 
 - String literals can contain any character other than newline and unescaped double quote.
 - Interpreted string literals uses double quotes and supports expansion of rune literals within it.
@@ -748,7 +748,7 @@ func panicFunc() {
 
 
 
-## 11. Working with Goroutines
+## 11. Goroutines
 
 - Rob Pike, “Concurrency is about dealing with lots of things at once. Parallelism is about doing lots of things at once.”
 - “Concurrency Is Not Parallelism” by Rob Pike (https://www.youtube.com/watch?v=cN_DpYBzKso)
@@ -950,7 +950,7 @@ func reacWriteChannel(queue chan string) {
 
 
 
-## 13. Using Packages for Code Reuse
+## 13. Packages for Code Reuse
 
 - Go program starts with a package clause.
 - `main` package is un-imported and must have main function with no args and returns type.
@@ -1725,7 +1725,7 @@ go run hello.go > logfile.txt
 
 
 
-## 17. Using Command-Line Programs
+## 17. Command-Line Programs
 
 ```go
 
@@ -1948,7 +1948,7 @@ mario:gonotes arunsah$ echo $?
 
 
 
-## 18. Creating HTTP Servers
+## 18. HTTP Servers
 
 ```go
 package main
@@ -2351,7 +2351,7 @@ Received a POST request! {"message":"hello world"}
 
 
 
-## 19. Creating HTTP Clients with Go
+## 19. HTTP Clients with Go
 
 ```shell
 $ curl -s -o /dev/null -v http://google.com
@@ -2819,7 +2819,7 @@ func() { // custom client (recommended to use custom client)
 
 
 
-## 20. Working with JSON
+## 20. JSON
 
 - struct tags helps to fine control json.
 - **Protobuf Performance Comparison and Points to Consider When Deciding If It’s Right For You**
@@ -3049,7 +3049,7 @@ func main() {
 
 
 
-## 21. Working with Files
+## 21. Files
 
 - Unix system, everything is treated as file. Process information are virtual fs.
 
@@ -4017,7 +4017,7 @@ dep is a tool for managing dependencies for Go projects
 	- Image Pacman (https://www.archlinux.org/pacman/) - Arch Linux
 
 
-## 25. Creating a RESTful JSON API
+## 25. A RESTful JSON API
 
 - Using `dep` for manage dependencies.
 	- `go get -u github.com/golang/dep/cmd/dep`
@@ -4298,7 +4298,7 @@ func TestListTask(test *testing.T) {
 
 
 
-## 26. Creating a TCP Chat Server
+## 26. A TCP Chat Server
 
 - TODO
 
