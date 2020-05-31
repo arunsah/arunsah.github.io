@@ -90,6 +90,8 @@
 		- `go clean` will clean the executable. 
 - Go binary are bulky as they are standalone.   
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 2. Data types
@@ -113,6 +115,8 @@ var status2 string = strconv.FormatBool(is_enabled)
 ```
 
 - Gary Bernhardt’s talk titled WAT. It is a humorous look at dynamically typed languages, including JavaScript (https://www.destroyallsoftware.com/talks/wat).
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -158,6 +162,8 @@ Go pointers!
 - Constant
 	- `const greeting string = "Hello world"`
 - Variables/constants are block scope. There are method live;, file level, package level and universal block.
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -239,6 +245,8 @@ fmt.Println(apply(3, cube))   // 27
 
 ```
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 5. Control Statements
@@ -295,6 +303,8 @@ fmt.Println(4)
 // 4
 
 ```
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -395,6 +405,8 @@ mango 200
 
 ```
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 7. Structs and Pointers
@@ -494,6 +506,8 @@ tom, copyTom :: {Name:tom FavouriteFruit:{Name:Grape Price:160}} and {Name: Copy
 tom, refTom :: {Name:Ref tom FavouriteFruit:{Name:Grape Price:160}} and &{Name:Ref tom FavouriteFruit:{Name:Grape Price:160}}
 ```
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 8. Methods and Interfaces
@@ -581,6 +595,8 @@ func main() {
 } //end of main
 
 ```
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -700,6 +716,8 @@ Bugs
 
 ```
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 10. Handling Errors
@@ -773,6 +791,8 @@ func panicFunc() {
 - Go’ idiomatic approaches to error handling says that caller is responsible for handling errors.
 - More we can think of error and means to recover, better is the code.
 - Errors are reported to callers rather that (exception) handling in the method itself. Design decision.
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -853,6 +873,8 @@ url = https://www.wikipedia.org/ took 0.326265483 seconds.
 url = https://www.google.com/ took 0.345889433 seconds.
 url = https://howtodoinjava.com/ took 1.071713877 seconds.
 ```
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -975,6 +997,8 @@ func reacWriteChannel(queue chan string) {
 }
 
 ```
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -1407,6 +1431,8 @@ mario:gonotes arunsah$ tree
 	- README: it contains information about package, how to install/build/use/demo sample codes. How other can contribute.
 	- Changelog: list changes to packages. Addition/removal of features. Git tags to denote releases
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 14. Naming Conventions in Go
@@ -1588,6 +1614,8 @@ fi
 
 ```
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 15. Testing and Performance
@@ -1696,6 +1724,8 @@ mario:gonotes arunsah$
 
 - Test should be run each time before committing.
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 16. Debugging
@@ -1750,6 +1780,8 @@ go run hello.go > logfile.txt
 		- `run` to execute the program until files breakpoint is hit.
 		- `(dlv) print message` will show value of message.
 		- `continue` to continue execution.
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -1973,6 +2005,8 @@ mario:gonotes arunsah$ echo $?
 ```
 
 - `go install` is used to install local packages (my be from remote). `go get` downloads files and install.
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -2376,6 +2410,8 @@ Received a POST request! {"message":"hello world"}
 - ⭐️ **TODO**: create routers that supports variables, request method type, content type integrated with `http`.
 - ⭐️ **TODO**: `ListenAndServeTLS` supports HTTPS and requires certificate and key files as parameters.
 - ⭐️ **TODO**: `POST` file and handle multipart data.
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -2845,6 +2881,8 @@ func() { // custom client (recommended to use custom client)
 - `NewRequest` should be used to have more controls over request headers.
 - `http://google.com/404` is seems to be static page.
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 20. JSON
@@ -3074,6 +3112,8 @@ func main() {
 } //end of main
 
 ```
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -3385,6 +3425,8 @@ func main() {
 
 ```
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 22. Introducing Regular Expressions
@@ -3668,6 +3710,8 @@ Clean html tags
 mario:gonotes arunsah$ 
 ```
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 23. Programming Time in Go
@@ -3827,6 +3871,8 @@ false
 false
 mario:gonotes arunsah$ 
 ```
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
 
 
 
@@ -4043,6 +4089,9 @@ dep is a tool for managing dependencies for Go projects
 	- Image Apt (https://wiki.debian.org/Apt) - Debian, Ubuntu
 	- Image Yum (http://yum.baseurl.org/) - Fedora, Red Hat, Centos
 	- Image Pacman (https://www.archlinux.org/pacman/) - Arch Linux
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 25. A RESTful JSON API
@@ -4324,14 +4373,22 @@ func TestListTask(test *testing.T) {
 
 - [Fielding Dissertation: CHAPTER 5: Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 26. A TCP Chat Server
 
 - TODO
 
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
 
 
 ## 27. References
 
 - Go in 24 Hours, Sams Teach Yourself: Next Generation Systems Programming with Golang, First Edition (https://learning.oreilly.com/library/view/go-in-24/9780134771922/)
+
+[^](https://arunsah.github.io/gonotes#table-of-content)
+
+[arunsah.github.io](https://arunsah.github.io)
