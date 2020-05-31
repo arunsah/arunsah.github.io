@@ -5,33 +5,61 @@
 
 ## Table of Content
 
-1. Introduction
-1. Date types
-1. Variables
-1. Functions
-1. Control Statements
-1. Arrays, Slices, and Maps
-1. Structs and Pointers
-1. Methods and Interfaces
-1. Strings
-1. Handling Errors
-1. Goroutines
-1. Introducing Channels
-1. Packages for Code Reuse
-1. Naming Conventions in Go
-1. Testing and Performance
-1. Debugging
-1. Command-Line Programs
-1. HTTP Servers
-1. HTTP Clients with Go
-1. JSON
-1. Files
-1. Introducing Regular Expressions
-1. Programming Time in Go
-1. Deploying Go Code
-1. A RESTful JSON API
-1. A TCP Chat Server
-1. References
+1. [Introduction](https://arunsah.github.io/gonotes#1-introduction)
+
+1. [Data types](https://arunsah.github.io/gonotes#2-data-types)
+
+1. [Variables](https://arunsah.github.io/gonotes#3-variables)
+
+1. [Functions](https://arunsah.github.io/gonotes#4-functions)
+
+1. [Control Statements](https://arunsah.github.io/gonotes#5-control-statements)
+
+1. [Arrays, Slices, and Maps](https://arunsah.github.io/gonotes#6-arrays-slices-and-maps)
+
+1. [Structs and Pointers](https://arunsah.github.io/gonotes#7-structs-and-pointers)
+
+1. [Methods and Interfaces](https://arunsah.github.io/gonotes#8-methods-and-interfaces)
+
+1. [Strings](https://arunsah.github.io/gonotes#9-strings)
+
+1. [Handling Errors](https://arunsah.github.io/gonotes#10-handling-errors)
+
+1. [Goroutines](https://arunsah.github.io/gonotes#11-goroutines)
+
+1. [Introducing Channels](https://arunsah.github.io/gonotes#12-introducing-channels)
+
+1. [Packages for Code Reuse](https://arunsah.github.io/gonotes#13-packages-for-code-reuse)
+
+1. [Naming Conventions in Go](https://arunsah.github.io/gonotes#14-naming-conventions-in-go)
+
+1. [Testing and Performance](https://arunsah.github.io/gonotes#15-testing-and-performance)
+
+1. [Debugging](https://arunsah.github.io/gonotes#16-debugging)
+
+1. [Command-Line Programs](https://arunsah.github.io/gonotes#17-command-line-programs)
+
+1. [HTTP Servers](https://arunsah.github.io/gonotes#18-http-servers)
+
+1. [HTTP Clients with Go](https://arunsah.github.io/gonotes#19-http-clients-with-go)
+
+1. [JSON](https://arunsah.github.io/gonotes#20-json)
+
+1. [Files](https://arunsah.github.io/gonotes#21-files)
+
+1. [Introducing Regular Expressions](https://arunsah.github.io/gonotes#22-introducing-regular-expressions)
+
+1. [Programming Time in Go](https://arunsah.github.io/gonotes#23-programming-time-in-go)
+
+1. [Deploying Go Code](https://arunsah.github.io/gonotes#24-deploying-go-code)
+
+1. [A RESTful JSON API](https://arunsah.github.io/gonotes#25-a-restful-json-api)
+
+1. [A TCP Chat Server](https://arunsah.github.io/gonotes#26-a-tcp-chat-server)
+
+1. [References](https://arunsah.github.io/gonotes#27-references)
+
+
 
 
 ## 1. Introduction
@@ -64,7 +92,7 @@
 
 
 
-## 2. Date types
+## 2. Data types
 
 #### Type of a Variables.
 
