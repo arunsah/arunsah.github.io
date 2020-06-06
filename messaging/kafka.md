@@ -1,5 +1,5 @@
 # Kafka	
-#kafka #may2020 #posted
+📅 [2020-05-01](https://arunsah.github.io/meta/changelog#2020-05-01) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
 ---
 ### Test
