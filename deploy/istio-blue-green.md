@@ -18,18 +18,18 @@ $
 $ cat ~/.bash_profile 
 export PATH=“/Users/arunsah/bin/kafka_2.13-2.4.0/bin:$PATH”
 
-marioc:bin arunsah$ nano ~/.bash_profile
-marioc:bin arunsah$ cat ~/.bash_profile 
+mario:bin arunsah$ nano ~/.bash_profile
+mario:bin arunsah$ cat ~/.bash_profile 
 export PATH="/Users/arunsah/bin/istio/istio-1.5.2:/Users/arunsah/bin/istio/istio-1.5.2/bin:/Users/arunsah/bin/Postman.app:/Users/arunsah/bin/kafka_2.13-2.4.0/bin:$PATH"
 
 
-marioc:istio-1.5.2 arunsah$ cd bin/
-marioc:bin arunsah$ ls
+mario:istio-1.5.2 arunsah$ cd bin/
+mario:bin arunsah$ ls
 istioctl
 ```
 
 ```
-marioc:spinnaker arunsah$ curl -L https://git.io/getLatestIstio | sh -
+mario:spinnaker arunsah$ curl -L https://git.io/getLatestIstio | sh -
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 —:—:—  0:01:16 —:—:—     0
@@ -50,14 +50,14 @@ Begin the Istio pre-installation verification check by running:
 	 istioctl verify-install 
 
 Need more information? Visit https://istio.io/docs/setup/kubernetes/install/ 
-marioc:spinnaker arunsah$ ls
+mario:spinnaker arunsah$ ls
 darwin-amd64				helm-v2.7.2-darwin-amd64.tar.gz		values.yaml
 helm-v2.13.0-darwin-amd64.tar.gz	istio-1.5.2
 ```
 
 
 ```
-marioc:istio-1.5.2 arunsah$ pwd
+mario:istio-1.5.2 arunsah$ pwd
 /Users/arunsah/bin/istio/istio-1.5.2
 
 $ cd /Users/arunsah/bin/istio/istio-1.5.2
@@ -68,7 +68,7 @@ $ cd /Users/arunsah/bin/istio/istio-1.5.2
 [Running Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
 
 ```
-marioc:bin arunsah$ istioctl verify-install 
+mario:bin arunsah$ istioctl verify-install 
 
 Checking the cluster to make sure it is ready for Istio installation...
 
@@ -127,7 +127,7 @@ spec:
 - Note these file is not available in new version. Check below link`$ kubectl apply -f install/kubernetes/helm/istio/templates/crds.yaml `
 https://github.com/istio/istio.io/issues/3176
 ```
-marioc:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/helm/istio-init/files
+mario:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/helm/istio-init/files
 customresourcedefinition.apiextensions.k8s.io/meshpolicies.authentication.istio.io created
 customresourcedefinition.apiextensions.k8s.io/policies.authentication.istio.io created
 customresourcedefinition.apiextensions.k8s.io/httpapispecs.config.istio.io created
@@ -158,14 +158,14 @@ customresourcedefinition.apiextensions.k8s.io/orders.certmanager.k8s.io created
 customresourcedefinition.apiextensions.k8s.io/challenges.certmanager.k8s.io created
 customresourcedefinition.apiextensions.k8s.io/adapters.config.istio.io created
 customresourcedefinition.apiextensions.k8s.io/templates.config.istio.io created
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 ```
 
 
 `$ kubectl apply -f install/kubernetes/istio-demo.yaml`
 
 ```
-marioc:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/istio-demo.yaml 
+mario:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/istio-demo.yaml 
 namespace/istio-system created
 customresourcedefinition.apiextensions.k8s.io/meshpolicies.authentication.istio.io unchanged
 customresourcedefinition.apiextensions.k8s.io/policies.authentication.istio.io unchanged
@@ -316,13 +316,13 @@ rule.config.istio.io/tcpkubeattrgenrulerule created
 instance.config.istio.io/attributes created
 destinationrule.networking.istio.io/istio-policy created
 destinationrule.networking.istio.io/istio-telemetry created
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 ```
 
 The above step results in the creation of a new namespace – `istio-system` – under which multiple objects get deployed.
 
 ```
-marioc:istio-1.5.2 arunsah$ kubectl get ns
+mario:istio-1.5.2 arunsah$ kubectl get ns
 NAME              STATUS   AGE
 default           Active   6d17h
 docker            Active   6d17h
@@ -330,12 +330,12 @@ istio-system      Active   104s
 kube-node-lease   Active   6d17h
 kube-public       Active   6d17h
 kube-system       Active   6d17h
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 ```
 
 - multiple services created within the **istio-system**namespace
 ```
-marioc:istio-1.5.2 arunsah$ kubectl get svc -n=istio-system -o wide
+mario:istio-1.5.2 arunsah$ kubectl get svc -n=istio-system -o wide
 NAME                        TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)                                                                                                                                      AGE     SELECTOR
 grafana                     ClusterIP   10.109.7.134     <none>        3000/TCP                                                                                                                                     2m55s   app=grafana
 istio-citadel               ClusterIP   10.103.172.230   <none>        8060/TCP,15014/TCP                                                                                                                           2m55s   istio=citadel
@@ -354,9 +354,9 @@ kiali                       ClusterIP   10.100.67.246    <none>        20001/TCP
 prometheus                  ClusterIP   10.98.221.225    <none>        9090/TCP                                                                                                                                     2m55s   app=prometheus
 tracing                     ClusterIP   10.98.18.141     <none>        80/TCP                                                                                                                                       2m53s   app=jaeger
 zipkin                      ClusterIP   10.107.40.96     <none>        9411/TCP                                                                                                                                     2m53s   app=jaeger
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 
-marioc:istio-1.5.2 arunsah$ kubectl get svc -n=istio-system -o=custom-columns=NAME:.metadata.name,IP:.spec.clusterIP
+mario:istio-1.5.2 arunsah$ kubectl get svc -n=istio-system -o=custom-columns=NAME:.metadata.name,IP:.spec.clusterIP
 NAME                        IP
 grafana                     10.109.7.134
 istio-citadel               10.103.172.230
@@ -375,7 +375,7 @@ kiali                       10.100.67.246
 prometheus                  10.98.221.225
 tracing                     10.98.18.141
 zipkin                      10.107.40.96
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 
 ```
 
@@ -389,7 +389,7 @@ kubectl describe pod kiali-7ff568c949-t47l9  -n istio-system
 
 - multiple pods deployed by Istio
 ```
-marioc:istio-1.5.2 arunsah$ kubectl get pods -n=istio-system
+mario:istio-1.5.2 arunsah$ kubectl get pods -n=istio-system
 NAME                                      READY   STATUS              RESTARTS   AGE
 grafana-584949b9c6-wbpnm                  0/1     ImagePullBackOff    0          5m28s
 istio-citadel-7998dbbd9c-npgnt            0/1     ImagePullBackOff    0          5m28s
@@ -405,7 +405,7 @@ istio-telemetry-57fb5464f4-czp6d          0/2     ErrImagePull        0         
 istio-tracing-68ffb9d456-lg4wt            0/1     ImagePullBackOff    0          5m27s
 kiali-7d4cf866cc-hgz7l                    0/1     ImagePullBackOff    0          5m28s
 prometheus-8685f659f-4bbrn                0/1     ContainerCreating   0          5m28s
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 ```
 
 **All the pods STATUS must be in running or complete mode, which indicates that Istio is successfully installed and configured.**
@@ -415,7 +415,7 @@ kubectl describe pod kiali-7ff568c949-t47l9  -n istio-system
 ```
 $ kubectl get events -n=istio-system  —sort-by=‘.metadata.creationTimestamp’
 Error from server (NotFound): events "—sort-by=‘.metadata.creationTimestamp’" not found
-marioc:istio-1.5.2 arunsah$ kubectl get events -n=istio-system 
+mario:istio-1.5.2 arunsah$ kubectl get events -n=istio-system 
 LAST SEEN   TYPE      REASON              OBJECT                                        MESSAGE
 12m         Normal    Scheduled           pod/grafana-584949b9c6-8fjsz                  Successfully assigned istio-system/grafana-584949b9c6-8fjsz to docker-desktop
 12m         Warning   FailedMount         pod/grafana-584949b9c6-8fjsz                  MountVolume.SetUp failed for volume "dashboards-istio-citadel-dashboard" : couldn't propagate object cache: timed out waiting for the condition
@@ -525,7 +525,7 @@ LAST SEEN   TYPE      REASON              OBJECT                                
 70s         Warning   FailedMount         pod/prometheus-8685f659f-kt67s                Unable to mount volumes for pod “prometheus-8685f659f-kt67s_istio-system(5104545b-d422-4190-ba2a-634d9e9e6680)”: timeout expired waiting for volumes to attach or mount for pod “istio-system”/“prometheus-8685f659f-kt67s”. list of unmounted volumes=[istio-certs]. list of unattached volumes=[config-volume istio-certs prometheus-token-4tscq]
 12m         Normal    SuccessfulCreate    replicaset/prometheus-8685f659f               Created pod: prometheus-8685f659f-kt67s
 12m         Normal    ScalingReplicaSet   deployment/prometheus                         Scaled up replica set prometheus-8685f659f to 1
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 
 ```
 
@@ -546,7 +546,7 @@ kubectl describe pod xxx  -n istio-system
 kubectl describe pod xxx  -n istio-system
 
 ```
-marioc:istio-1.5.2 arunsah$ kubectl get pods -n=istio-system
+mario:istio-1.5.2 arunsah$ kubectl get pods -n=istio-system
 NAME                                      READY   STATUS              RESTARTS   AGE
 grafana-584949b9c6-8fjsz                  0/1     ImagePullBackOff    0          29m
 istio-citadel-7998dbbd9c-dh2zn            0/1     ContainerCreating   0          29m
@@ -568,10 +568,10 @@ prometheus-8685f659f-kt67s                0/1     ContainerCreating   0         
 
 
 ```
-marioc:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/helm/istio-init/files
-marioc:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/istio-demo.yaml
+mario:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/helm/istio-init/files
+mario:istio-1.5.2 arunsah$ kubectl apply -f ./install/kubernetes/istio-demo.yaml
 
-marioc:istio-1.5.2 arunsah$ kubectl get pods -n=istio-system
+mario:istio-1.5.2 arunsah$ kubectl get pods -n=istio-system
 NAME                                      READY   STATUS      RESTARTS   AGE
 grafana-584949b9c6-rs25v                  1/1     Running     0          67s
 istio-citadel-7998dbbd9c-x4kmd            1/1     Running     0          66s
@@ -587,7 +587,7 @@ istio-telemetry-57fb5464f4-ljr47          2/2     Running     1          67s
 istio-tracing-68ffb9d456-dnzpq            1/1     Running     0          66s
 kiali-7d4cf866cc-9dllr                    1/1     Running     0          67s
 prometheus-8685f659f-m6gjl                1/1     Running     0          66s
-marioc:istio-1.5.2 arunsah$ 
+mario:istio-1.5.2 arunsah$ 
 
 
 ```
@@ -659,15 +659,15 @@ Same is the case with the ClusterIP service definition. Due the label, app: myap
 
 
 ```
-marioc:janakiramm-myapp-demo arunsah$ pwd
+mario:janakiramm-myapp-demo arunsah$ pwd
 /Users/arunsah/bin/istio/janakiramm-myapp-demo
-marioc:janakiramm-myapp-demo arunsah$ ls
+mario:janakiramm-myapp-demo arunsah$ ls
 janakiramm-myapp.yaml
-marioc:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-myapp.yaml 
+mario:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-myapp.yaml 
 service/myapp created
 deployment.extensions/myapp-v1 created
 deployment.extensions/myapp-v2 created
-marioc:janakiramm-myapp-demo arunsah$ 
+mario:janakiramm-myapp-demo arunsah$ 
 ```
 
 
@@ -809,19 +809,19 @@ spec:
 
 
 ```
-marioc:janakiramm-myapp-demo arunsah$ pwd
+mario:janakiramm-myapp-demo arunsah$ pwd
 /Users/arunsah/bin/istio/janakiramm-myapp-demo
-marioc:janakiramm-myapp-demo arunsah$ ls
+mario:janakiramm-myapp-demo arunsah$ ls
 janakiramm-myapp.yaml
-marioc:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-myapp.yaml 
+mario:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-myapp.yaml 
 service/myapp created
 deployment.extensions/myapp-v1 created
 deployment.extensions/myapp-v2 created
-marioc:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-all-svc.yaml 
+mario:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-all-svc.yaml 
 gateway.networking.istio.io/app-gateway created
 destinationrule.networking.istio.io/myapp created
 virtualservice.networking.istio.io/myapp created
-marioc:janakiramm-myapp-demo arunsah$ 
+mario:janakiramm-myapp-demo arunsah$ 
 
 
 ```
@@ -845,10 +845,10 @@ while : ;do export GREP_COLOR='1;33';curl -s  192.168.99.100:31380 \
 ---
 
 
-marioc:janakiramm-myapp-demo arunsah$ kubectl -n istio-system get service istio-ingressgateway
+mario:janakiramm-myapp-demo arunsah$ kubectl -n istio-system get service istio-ingressgateway
 NAME                   TYPE       CLUSTER-IP      EXTERNAL-IP   PORT(S)                                                                                                                                      AGE
 istio-ingressgateway   NodePort   10.100.50.121   <none>        15020:30406/TCP,80:31380/TCP,443:31390/TCP,31400:31400/TCP,15029:31088/TCP,15030:30273/TCP,15031:30982/TCP,15032:31984/TCP,15443:31166/TCP   36m
-marioc:janakiramm-myapp-demo arunsah$ 
+mario:janakiramm-myapp-demo arunsah$ 
 
 
 
@@ -863,7 +863,7 @@ If you access the URI from the browser, you will see the traffic getting routed 
 We can see the result from a terminal window. Run the below command from the terminal window to see alternating response from V1 and V2.
 
 ```
-marioc:janakiramm-myapp-demo arunsah$ while : ;do export GREP_COLOR='1;33';curl -s  localhost:31380 \
+mario:janakiramm-myapp-demo arunsah$ while : ;do export GREP_COLOR='1;33';curl -s  localhost:31380 \
 >  |  grep --color=always "V1" ; export GREP_COLOR='1;36';\
 >  curl -s  localhost:31380 \
 >  | grep --color=always "vNext" ; sleep 1; done
@@ -896,18 +896,18 @@ marioc:janakiramm-myapp-demo arunsah$ while : ;do export GREP_COLOR='1;33';curl 
     <h1>Welcome to **V1** of the web application</h1>
     <h1>Welcome to **vNext** of the web application</h1>
 ^C
-marioc:janakiramm-myapp-demo arunsah$ 
+mario:janakiramm-myapp-demo arunsah$ 
 
 // change the weight
 
-marioc:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-all-svc.yaml 
+mario:janakiramm-myapp-demo arunsah$ kubectl apply -f janakiramm-all-svc.yaml 
 gateway.networking.istio.io/app-gateway unchanged
 destinationrule.networking.istio.io/myapp unchanged
 virtualservice.networking.istio.io/myapp configured
 
 
 
-marioc:janakiramm-myapp-demo arunsah$ while : ;do export GREP_COLOR='1;33';curl -s  localhost:31380 \
+mario:janakiramm-myapp-demo arunsah$ while : ;do export GREP_COLOR='1;33';curl -s  localhost:31380 \
 >  |  grep --color=always "V1" ; export GREP_COLOR='1;36';\
 >  curl -s  localhost:31380 \
 >  | grep --color=always "vNext" ; sleep 1; done
@@ -941,7 +941,7 @@ marioc:janakiramm-myapp-demo arunsah$ while : ;do export GREP_COLOR='1;33';curl 
     <h1>Welcome to vNext of the web application</h1>
     <h1>Welcome to vNext of the web application</h1>
 ^C
-marioc:janakiramm-myapp-demo arunsah$ 
+mario:janakiramm-myapp-demo arunsah$ 
 
 ```
 
