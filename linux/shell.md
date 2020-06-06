@@ -1,5 +1,5 @@
 # Shell
-#linux #shell
+📅 [2020-05-01](https://arunsah.github.io/meta/changelog#2020-05-01) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
 --- 
 ### Add Environment Variable to PATH
