@@ -3,6 +3,7 @@
 
 
 #### 2020-06-06
+- Created [`/deploy/istio-blue-green.md`](https://arunsah.github.io/deploy/istio-blue-green) demo Blue Green Deployment with Kubernetes and Istio.
 - Created [`/meta/changelog.md`](https://arunsah.github.io/meta/changelog) to track history of changes in this repo.
 - Created [`/deploy/index.md`](https://arunsah.github.io/deploy) to restructure topics related to deploynent.
 - Created [`/linux/index.md`](https://arunsah.github.io/linux) to restructure topics related to linux.
