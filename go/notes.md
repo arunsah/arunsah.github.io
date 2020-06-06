@@ -1,5 +1,5 @@
 # Go Notes
-#go #may2020
+📅 [2020-05-31](https://arunsah.github.io/meta/changelog#2020-05-31) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
 ---
 
