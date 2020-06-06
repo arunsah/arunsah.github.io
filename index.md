@@ -1,27 +1,13 @@
 # arunsah.github.io
-Hi, this is Arun. Welcome to my github page. These pages will contains quickstarts/code snipets/some blogs/tutorials/notes/references.
+Hi, this is Arun. Welcome to my github page. These pages will contains quickstarts/code snipets/some blogs/tutorials/notes/references. I can be reached out at `arunkumar626@gmail.com`, please expect response based on my availability.
 
 ---
 
 ## Table of Contents
 
-Language
-- [Go](https://arunsah.github.io/go/)
-
-Database
-- [Cassandra in Docker](cassandra-docker.md)
-- [Redis in Docker](redis-docker.md)
-
-Message Broker/Stream Processor
-- [Kafka](kafka.md)
-
-Linux/shell
-- [Shell](shell.md)
-
-Deployment Tools
-- [Docker and Kubernetes](docker.md)
-- [Spinnaker on K8](spinnaker-k8.md)
-
-Markdown
-- [Markdown Cheatsheet](markdown.md)
-
+- [Change Log](https://arunsah.github.io/meta/changelog)
+- [Deployment Tools and Tutorials](https://arunsah.github.io/deploy)
+- [Go](https://arunsah.github.io/go)
+- [Linux](https://arunsah.github.io/linux)
+- [Markdown](https://arunsah.github.io/meta/markdown)
+- [Streaming and Messaging](https://arunsah.github.io/messaging)
