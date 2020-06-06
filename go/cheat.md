@@ -1,5 +1,5 @@
 # Go Cheatsheet
-#go #may2020
+📅 [2020-05-09](https://arunsah.github.io/meta/changelog#2020-05-09) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
 ---
 
