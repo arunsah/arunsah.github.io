@@ -6,8 +6,7 @@ Hi, this is Arun. Welcome to my github page. These pages will contains quickstar
 ## Table of Contents
 
 Language
-- [Go Cheatsheet](go.md)
-- [Go Notes](gonotes.md)
+- [Go](https://arunsah.github.io/go/)
 
 Database
 - [Cassandra in Docker](cassandra-docker.md)
