@@ -1,4 +1,4 @@
-# Golang
+# Go Cheatsheet
 #go #may2020
 
 ---
