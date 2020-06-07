@@ -6,9 +6,18 @@ Hi, this is Arun. Welcome to my github page. These pages will contains quickstar
 
 ##### Table of Content
 
-- [Deployment Tools and Tutorials](https://arunsah.github.io/deploy)
-- [Database](https://arunsah.github.io/db)
+###### Coding
+- [Data structure](https://arunsah.github.io/ds)
+- [Algorithms](https://arunsah.github.io/algo)
+
+###### Programming Languages
 - [Go](https://arunsah.github.io/go)
-- [Linux](https://arunsah.github.io/linux)
-- [Markdown](https://arunsah.github.io/meta/markdown)
+
+###### Distributed Systems
+- [Database](https://arunsah.github.io/db)
+- [Linux and Operating System](https://arunsah.github.io/linux)
 - [Streaming and Messaging](https://arunsah.github.io/messaging)
+- [Deployment Tools and Tutorials](https://arunsah.github.io/deploy)
+
+###### Others
+- [Markdown](https://arunsah.github.io/meta/markdown)
