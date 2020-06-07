@@ -1,6 +1,10 @@
 # Change Log
 📅 [2020-06-06](https://arunsah.github.io/meta/changelog#2020-06-06) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
+#### 2020-06-07
+- Created [`/ds/index.md`](https://arunsah.github.io/ds) to restructure topics related to data structures.
+- Created [`/algo/index.md`](https://arunsah.github.io/algo) to restructure topics related to algorithms.
+
 
 #### 2020-06-06
 - Created [`/deploy/istio-blue-green.md`](https://arunsah.github.io/deploy/istio-blue-green) demo Blue Green Deployment with Kubernetes and Istio.
