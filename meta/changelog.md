@@ -2,6 +2,8 @@
 📅 [2020-06-06](https://arunsah.github.io/meta/changelog#2020-06-06) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
 #### 2020-06-07
+- Created [`/ms/db-architecture.md`](https://arunsah.github.io/ms/db-architecture) Database architecture in Microservices.
+- Created [`/ms/index.md`](https://arunsah.github.io/algo) to restructure topics related to microservices.
 - Created [`/ds/index.md`](https://arunsah.github.io/ds) to restructure topics related to data structures.
 - Created [`/algo/index.md`](https://arunsah.github.io/algo) to restructure topics related to algorithms.
 
