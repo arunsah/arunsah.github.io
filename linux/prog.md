@@ -5,7 +5,7 @@
 
 ## Table of Content
 
-Chapter 1: History and Standards
+[Chapter 1: History and Standards](https://arunsah.github.io/linux/prog#chapter-1-history-and-standards)
 - 1.1 A Brief History of UNIX and C
 - 1.2 A Brief History of Linux
 - 1.2.1 The GNU Project
@@ -977,13 +977,13 @@ int main()
 ```shell
 
 $ gcc hello.c -o hello
-mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ./hello 
+mario@mario:~/dev/sysprog/linux/proginterface/introduction$ ./hello 
 Enter two numbers to add, separated by a space: 1 3
 The sum of equals 4
-mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
+mario@mario:~/dev/sysprog/linux/proginterface/introduction$ ^C
 ```
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1288,14 +1288,14 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 - Binary portability is required for commercial viable of Independent Software Vendor (ISV) applications for Linux.
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 ## Chapter 2: Fundamental Concepts
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1303,7 +1303,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1311,7 +1311,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1319,7 +1319,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1327,7 +1327,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1335,7 +1335,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1343,7 +1343,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1351,7 +1351,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1359,7 +1359,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1367,7 +1367,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1375,7 +1375,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1383,7 +1383,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1391,7 +1391,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1399,7 +1399,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1407,7 +1407,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1415,7 +1415,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1423,7 +1423,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1431,7 +1431,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1439,7 +1439,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1447,7 +1447,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1456,7 +1456,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1464,7 +1464,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1472,7 +1472,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1480,7 +1480,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1488,7 +1488,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1496,7 +1496,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1504,7 +1504,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1512,7 +1512,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1520,7 +1520,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1528,7 +1528,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1536,7 +1536,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1544,7 +1544,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1552,7 +1552,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1560,7 +1560,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1569,7 +1569,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1577,7 +1577,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1585,7 +1585,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1593,7 +1593,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1601,7 +1601,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1609,7 +1609,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1617,7 +1617,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1625,7 +1625,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1633,7 +1633,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1641,7 +1641,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1649,7 +1649,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1657,7 +1657,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1665,7 +1665,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1673,7 +1673,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1682,7 +1682,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1690,7 +1690,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1698,7 +1698,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1706,7 +1706,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1714,7 +1714,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1722,7 +1722,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1730,7 +1730,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1738,7 +1738,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1746,7 +1746,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1754,7 +1754,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1762,7 +1762,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1770,7 +1770,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1778,7 +1778,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1786,7 +1786,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1794,7 +1794,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1803,7 +1803,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1811,7 +1811,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1819,7 +1819,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1827,7 +1827,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1835,7 +1835,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1843,7 +1843,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1851,7 +1851,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1859,7 +1859,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1867,7 +1867,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1875,7 +1875,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1883,7 +1883,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1892,7 +1892,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1900,7 +1900,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1908,7 +1908,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1916,7 +1916,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1924,7 +1924,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1932,7 +1932,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1940,7 +1940,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1948,7 +1948,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1956,7 +1956,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1965,7 +1965,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1973,7 +1973,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1981,7 +1981,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1989,7 +1989,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -1997,7 +1997,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2005,7 +2005,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2013,7 +2013,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2021,7 +2021,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2030,7 +2030,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2038,7 +2038,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2046,7 +2046,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2054,7 +2054,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2062,7 +2062,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2070,7 +2070,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2078,7 +2078,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2086,7 +2086,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2094,7 +2094,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2102,7 +2102,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2110,7 +2110,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2118,7 +2118,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2126,7 +2126,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2134,7 +2134,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2142,7 +2142,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2151,7 +2151,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2159,7 +2159,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2167,7 +2167,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2175,7 +2175,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2183,7 +2183,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2191,7 +2191,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2199,7 +2199,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2207,7 +2207,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2215,7 +2215,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2223,7 +2223,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2231,7 +2231,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2239,7 +2239,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2247,7 +2247,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2256,7 +2256,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2264,7 +2264,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2272,7 +2272,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2280,7 +2280,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2288,7 +2288,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2296,7 +2296,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2304,7 +2304,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2312,7 +2312,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2321,7 +2321,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2329,7 +2329,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2337,7 +2337,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2345,7 +2345,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2353,7 +2353,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2361,7 +2361,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2369,7 +2369,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2377,7 +2377,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2386,7 +2386,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2394,7 +2394,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2402,7 +2402,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2410,7 +2410,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2418,7 +2418,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2426,7 +2426,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2434,7 +2434,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2442,7 +2442,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2450,7 +2450,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2458,7 +2458,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2467,7 +2467,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2475,7 +2475,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2483,7 +2483,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2491,7 +2491,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2499,7 +2499,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2507,7 +2507,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2515,7 +2515,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2523,7 +2523,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2531,7 +2531,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2539,7 +2539,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2547,7 +2547,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2555,7 +2555,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2563,7 +2563,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2571,7 +2571,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2579,7 +2579,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2587,7 +2587,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2595,7 +2595,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2603,7 +2603,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2611,7 +2611,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2619,7 +2619,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2627,7 +2627,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2636,7 +2636,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2644,7 +2644,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2652,7 +2652,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2660,7 +2660,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2668,7 +2668,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2676,7 +2676,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2684,7 +2684,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2692,7 +2692,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2700,7 +2700,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2708,7 +2708,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2716,7 +2716,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2724,7 +2724,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2732,7 +2732,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2740,7 +2740,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2748,7 +2748,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2756,7 +2756,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2764,7 +2764,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2772,7 +2772,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2780,7 +2780,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2789,7 +2789,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2797,7 +2797,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2805,7 +2805,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2813,7 +2813,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2821,7 +2821,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2829,7 +2829,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2838,7 +2838,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2846,7 +2846,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2854,7 +2854,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2862,7 +2862,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2870,7 +2870,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2878,7 +2878,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2886,7 +2886,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2894,7 +2894,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2902,7 +2902,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2910,7 +2910,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2918,7 +2918,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2927,7 +2927,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2935,7 +2935,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2943,7 +2943,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2951,7 +2951,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2959,7 +2959,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2967,7 +2967,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2975,7 +2975,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2983,7 +2983,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2991,7 +2991,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -2999,7 +2999,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3007,7 +3007,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3015,7 +3015,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3023,7 +3023,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3031,7 +3031,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3039,7 +3039,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3047,7 +3047,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3055,7 +3055,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3064,7 +3064,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3072,7 +3072,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3080,7 +3080,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3088,7 +3088,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3096,7 +3096,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3104,7 +3104,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3112,7 +3112,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3120,7 +3120,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3128,7 +3128,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3137,7 +3137,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3145,7 +3145,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3153,7 +3153,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3161,7 +3161,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3169,7 +3169,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3177,7 +3177,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3185,7 +3185,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3193,7 +3193,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3201,7 +3201,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3209,7 +3209,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3217,7 +3217,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3225,7 +3225,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3233,7 +3233,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3241,7 +3241,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3249,7 +3249,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3257,7 +3257,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3265,7 +3265,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3274,7 +3274,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3282,7 +3282,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3290,7 +3290,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3298,7 +3298,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3306,7 +3306,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3314,7 +3314,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3322,7 +3322,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3330,7 +3330,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3338,7 +3338,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3346,7 +3346,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3354,7 +3354,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3362,7 +3362,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3370,7 +3370,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3379,7 +3379,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3387,7 +3387,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3395,7 +3395,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3403,7 +3403,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3411,7 +3411,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3419,7 +3419,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3427,7 +3427,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3435,7 +3435,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3443,7 +3443,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3451,7 +3451,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3459,7 +3459,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3467,7 +3467,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3475,7 +3475,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3483,7 +3483,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3491,7 +3491,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3499,7 +3499,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3507,7 +3507,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3515,7 +3515,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3524,7 +3524,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3532,7 +3532,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3540,7 +3540,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3548,7 +3548,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3556,7 +3556,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3564,7 +3564,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3572,7 +3572,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3580,7 +3580,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3588,7 +3588,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3596,7 +3596,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3604,7 +3604,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3612,7 +3612,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3620,7 +3620,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3628,7 +3628,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3636,7 +3636,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3644,7 +3644,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3652,7 +3652,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3660,7 +3660,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3668,7 +3668,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3676,7 +3676,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3684,7 +3684,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3692,7 +3692,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3700,7 +3700,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3709,7 +3709,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3717,7 +3717,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3725,7 +3725,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3733,7 +3733,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3741,7 +3741,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3749,7 +3749,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3757,7 +3757,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3765,7 +3765,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3773,7 +3773,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3781,7 +3781,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3790,7 +3790,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3798,7 +3798,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3806,7 +3806,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3814,7 +3814,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3822,7 +3822,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3830,7 +3830,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3838,7 +3838,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3847,7 +3847,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3855,7 +3855,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3863,7 +3863,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3871,7 +3871,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3879,7 +3879,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3887,7 +3887,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3895,7 +3895,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3903,7 +3903,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3911,7 +3911,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3919,7 +3919,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3927,7 +3927,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3935,7 +3935,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3943,7 +3943,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3951,7 +3951,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3959,7 +3959,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3968,7 +3968,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3976,7 +3976,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3984,7 +3984,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -3992,7 +3992,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4000,7 +4000,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4008,7 +4008,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4016,7 +4016,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4024,7 +4024,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4032,7 +4032,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4040,7 +4040,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4048,7 +4048,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4056,7 +4056,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4064,7 +4064,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4072,7 +4072,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4081,7 +4081,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4089,7 +4089,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4097,7 +4097,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4105,7 +4105,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4113,7 +4113,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4121,7 +4121,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4129,7 +4129,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4137,7 +4137,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4145,7 +4145,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4154,7 +4154,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4162,7 +4162,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4170,7 +4170,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4178,7 +4178,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4186,7 +4186,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4194,7 +4194,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4202,7 +4202,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4210,7 +4210,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4218,7 +4218,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4226,7 +4226,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4234,7 +4234,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4242,7 +4242,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4251,7 +4251,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4259,7 +4259,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4267,7 +4267,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4275,7 +4275,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4283,7 +4283,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4291,7 +4291,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4299,7 +4299,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4307,7 +4307,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4315,7 +4315,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4323,7 +4323,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4331,7 +4331,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4339,7 +4339,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4347,7 +4347,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4355,7 +4355,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4363,7 +4363,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4371,7 +4371,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4379,7 +4379,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4388,7 +4388,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4396,7 +4396,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4404,7 +4404,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4412,7 +4412,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4420,7 +4420,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4428,7 +4428,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4436,7 +4436,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4444,7 +4444,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4452,7 +4452,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4460,7 +4460,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4468,7 +4468,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4476,7 +4476,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4485,7 +4485,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4493,7 +4493,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4501,7 +4501,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4509,7 +4509,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4517,7 +4517,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4525,7 +4525,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4533,7 +4533,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4541,7 +4541,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4550,7 +4550,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4558,7 +4558,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4566,7 +4566,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4574,7 +4574,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4582,7 +4582,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4590,7 +4590,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4598,7 +4598,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4606,7 +4606,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4614,7 +4614,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4622,7 +4622,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4630,7 +4630,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4638,7 +4638,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4646,7 +4646,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4654,7 +4654,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4662,7 +4662,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4670,7 +4670,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4679,7 +4679,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4687,7 +4687,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4695,7 +4695,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4703,7 +4703,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4711,7 +4711,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4719,7 +4719,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4727,7 +4727,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4735,7 +4735,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4743,7 +4743,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4751,7 +4751,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4759,7 +4759,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4767,7 +4767,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4775,7 +4775,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4783,7 +4783,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4791,7 +4791,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4799,7 +4799,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4808,7 +4808,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4816,7 +4816,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4824,7 +4824,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4832,7 +4832,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4840,7 +4840,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4848,7 +4848,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4856,7 +4856,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4864,7 +4864,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4872,7 +4872,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4880,7 +4880,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4888,7 +4888,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4896,7 +4896,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4904,7 +4904,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4912,7 +4912,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4921,7 +4921,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4929,7 +4929,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4937,7 +4937,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4945,7 +4945,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4953,7 +4953,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4961,7 +4961,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4970,7 +4970,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4978,7 +4978,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4986,7 +4986,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -4994,7 +4994,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5002,7 +5002,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5010,7 +5010,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5018,7 +5018,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5026,7 +5026,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5034,7 +5034,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5042,7 +5042,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5050,7 +5050,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5059,7 +5059,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5067,7 +5067,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5075,7 +5075,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5083,7 +5083,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5091,7 +5091,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5099,7 +5099,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5107,7 +5107,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5115,7 +5115,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5123,7 +5123,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5131,7 +5131,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5139,7 +5139,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5147,7 +5147,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5155,7 +5155,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5163,7 +5163,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5172,7 +5172,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5180,7 +5180,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5188,7 +5188,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5196,7 +5196,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5204,7 +5204,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5212,7 +5212,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5220,7 +5220,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5228,7 +5228,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5236,7 +5236,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5244,7 +5244,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5252,7 +5252,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5260,7 +5260,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5268,7 +5268,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5276,7 +5276,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5284,7 +5284,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5292,7 +5292,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5300,7 +5300,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5308,7 +5308,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5316,7 +5316,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5324,7 +5324,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5332,7 +5332,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5341,7 +5341,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5349,7 +5349,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5357,7 +5357,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5365,7 +5365,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5373,7 +5373,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5381,7 +5381,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5389,7 +5389,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5397,7 +5397,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5405,7 +5405,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5413,7 +5413,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5422,7 +5422,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5430,7 +5430,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5438,7 +5438,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5446,7 +5446,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5454,7 +5454,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5462,7 +5462,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5470,7 +5470,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5478,7 +5478,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5486,7 +5486,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5494,7 +5494,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5502,7 +5502,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5510,7 +5510,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5518,7 +5518,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5526,7 +5526,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5534,7 +5534,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5542,7 +5542,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5550,7 +5550,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5558,7 +5558,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5566,7 +5566,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5574,7 +5574,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5583,7 +5583,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5591,7 +5591,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5599,7 +5599,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5607,7 +5607,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5615,7 +5615,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5623,7 +5623,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5631,7 +5631,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5639,7 +5639,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5647,7 +5647,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5655,7 +5655,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5663,7 +5663,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5671,7 +5671,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5679,7 +5679,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5687,7 +5687,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5695,7 +5695,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5703,7 +5703,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5711,7 +5711,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5720,7 +5720,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5728,7 +5728,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5736,7 +5736,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5744,7 +5744,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5752,7 +5752,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5760,7 +5760,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5768,7 +5768,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5777,7 +5777,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5785,7 +5785,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5793,7 +5793,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5801,7 +5801,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5809,7 +5809,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5817,7 +5817,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5825,7 +5825,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5833,7 +5833,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5841,7 +5841,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5849,7 +5849,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5857,7 +5857,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5865,7 +5865,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5873,7 +5873,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5882,7 +5882,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5890,7 +5890,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5898,7 +5898,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5906,7 +5906,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5914,7 +5914,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5922,7 +5922,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5930,7 +5930,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5938,7 +5938,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5946,7 +5946,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5954,7 +5954,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5962,7 +5962,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5971,7 +5971,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5979,7 +5979,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5987,7 +5987,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -5995,7 +5995,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6003,7 +6003,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6011,7 +6011,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6019,7 +6019,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6027,7 +6027,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6035,7 +6035,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6043,7 +6043,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6051,7 +6051,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6059,7 +6059,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6067,7 +6067,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6075,7 +6075,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6084,7 +6084,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6092,7 +6092,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6100,7 +6100,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6108,7 +6108,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6116,7 +6116,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6124,7 +6124,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6132,7 +6132,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6140,7 +6140,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6148,7 +6148,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6156,7 +6156,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6164,7 +6164,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6172,7 +6172,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6180,7 +6180,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6188,7 +6188,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6197,7 +6197,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6205,7 +6205,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6213,7 +6213,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6221,7 +6221,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6229,7 +6229,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6237,7 +6237,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6245,7 +6245,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6253,7 +6253,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6261,7 +6261,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6269,7 +6269,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6277,7 +6277,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6285,7 +6285,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6294,7 +6294,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6302,7 +6302,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6310,7 +6310,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6318,7 +6318,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6326,7 +6326,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6334,7 +6334,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6342,7 +6342,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6350,7 +6350,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6358,7 +6358,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6366,7 +6366,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6374,7 +6374,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6382,7 +6382,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6390,7 +6390,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6398,7 +6398,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6406,7 +6406,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6414,7 +6414,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6422,7 +6422,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6430,7 +6430,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6439,7 +6439,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6447,7 +6447,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6455,7 +6455,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6463,7 +6463,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6471,7 +6471,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6479,7 +6479,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6487,7 +6487,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6496,7 +6496,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6504,7 +6504,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6512,7 +6512,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6520,7 +6520,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6529,7 +6529,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6537,7 +6537,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6545,7 +6545,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6553,7 +6553,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6561,7 +6561,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6569,7 +6569,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6577,7 +6577,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6585,7 +6585,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6593,7 +6593,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6601,7 +6601,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6609,7 +6609,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6617,7 +6617,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6625,7 +6625,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6633,7 +6633,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6641,7 +6641,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6649,7 +6649,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6657,7 +6657,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6666,7 +6666,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6674,7 +6674,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6682,7 +6682,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6690,7 +6690,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6698,7 +6698,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6706,7 +6706,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6714,7 +6714,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6722,7 +6722,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6730,7 +6730,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6738,7 +6738,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6746,7 +6746,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6754,7 +6754,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6762,7 +6762,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6770,7 +6770,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6778,7 +6778,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6786,7 +6786,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6794,7 +6794,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6803,7 +6803,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6811,7 +6811,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6819,7 +6819,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6827,7 +6827,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6835,7 +6835,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6843,7 +6843,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6851,7 +6851,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6859,7 +6859,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6868,7 +6868,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6876,7 +6876,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6884,7 +6884,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6892,7 +6892,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6900,7 +6900,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6908,7 +6908,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6916,7 +6916,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6924,7 +6924,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6932,7 +6932,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6940,7 +6940,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6948,7 +6948,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6956,7 +6956,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6964,7 +6964,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6972,7 +6972,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6980,7 +6980,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6988,7 +6988,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -6996,7 +6996,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7004,7 +7004,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7013,7 +7013,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7021,7 +7021,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7029,7 +7029,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7037,7 +7037,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7045,7 +7045,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7053,7 +7053,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7061,7 +7061,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7069,7 +7069,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7077,7 +7077,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7085,7 +7085,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7093,7 +7093,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7101,7 +7101,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7109,7 +7109,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7117,7 +7117,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7125,7 +7125,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7134,7 +7134,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7142,7 +7142,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7150,7 +7150,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7158,7 +7158,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7166,7 +7166,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7174,7 +7174,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7182,7 +7182,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7190,7 +7190,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7198,7 +7198,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7207,7 +7207,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7215,7 +7215,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7223,7 +7223,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7231,7 +7231,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7239,7 +7239,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7247,7 +7247,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7255,7 +7255,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7263,7 +7263,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7271,7 +7271,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7279,7 +7279,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7287,7 +7287,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7295,7 +7295,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7304,7 +7304,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7312,7 +7312,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7320,7 +7320,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7328,7 +7328,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7336,7 +7336,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7344,7 +7344,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7352,7 +7352,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7360,7 +7360,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7368,7 +7368,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7376,7 +7376,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7384,7 +7384,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7392,7 +7392,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7400,7 +7400,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7408,7 +7408,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7416,7 +7416,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7424,7 +7424,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7432,7 +7432,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7440,7 +7440,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7448,7 +7448,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7456,7 +7456,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7464,7 +7464,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7472,7 +7472,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7480,7 +7480,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7488,7 +7488,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7496,7 +7496,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7505,7 +7505,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7513,7 +7513,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7521,7 +7521,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7529,7 +7529,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7537,7 +7537,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7545,7 +7545,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7553,7 +7553,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7561,7 +7561,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7570,7 +7570,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7578,7 +7578,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7586,7 +7586,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7594,7 +7594,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7602,7 +7602,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7610,7 +7610,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7618,7 +7618,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7626,7 +7626,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7634,7 +7634,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7642,7 +7642,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7650,7 +7650,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7658,7 +7658,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7666,7 +7666,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7674,7 +7674,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7682,7 +7682,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7690,7 +7690,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7698,7 +7698,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7706,7 +7706,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7714,7 +7714,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7722,7 +7722,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7730,7 +7730,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7738,7 +7738,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7746,7 +7746,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7754,7 +7754,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7762,7 +7762,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7770,7 +7770,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7778,7 +7778,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7786,7 +7786,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7794,7 +7794,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7803,7 +7803,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7811,7 +7811,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7819,7 +7819,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7827,7 +7827,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7835,7 +7835,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7843,7 +7843,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7851,7 +7851,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7859,7 +7859,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7867,7 +7867,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7875,7 +7875,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7883,7 +7883,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7891,7 +7891,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7899,7 +7899,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7907,7 +7907,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7915,7 +7915,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7923,7 +7923,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7932,7 +7932,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7940,7 +7940,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7948,7 +7948,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7956,7 +7956,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7964,7 +7964,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7972,7 +7972,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7980,7 +7980,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7988,7 +7988,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -7996,7 +7996,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8004,7 +8004,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8012,7 +8012,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8020,7 +8020,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8028,7 +8028,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8036,7 +8036,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8044,7 +8044,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8052,7 +8052,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8060,7 +8060,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8068,7 +8068,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8076,7 +8076,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8084,7 +8084,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8092,7 +8092,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8100,7 +8100,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8108,7 +8108,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8116,7 +8116,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8124,7 +8124,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8133,7 +8133,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8141,7 +8141,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8149,7 +8149,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8157,7 +8157,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8165,7 +8165,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8173,7 +8173,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8181,7 +8181,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8189,7 +8189,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8197,7 +8197,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8205,7 +8205,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8213,7 +8213,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8221,7 +8221,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8229,7 +8229,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8237,7 +8237,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8245,7 +8245,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8254,7 +8254,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8263,7 +8263,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8272,7 +8272,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8281,7 +8281,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8290,7 +8290,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8299,7 +8299,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8308,7 +8308,7 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 
 
@@ -8318,6 +8318,6 @@ mario@mario:~/dev/sysprog/linuxproginterface/introduction$ ^C
 
 
 
-[↑](https://arunsah.github.io/linuxprog#table-of-content)
+[↑](https://arunsah.github.io/linux/prog#table-of-content)
 
 [arunsah.github.io](https://arunsah.github.io)
