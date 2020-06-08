@@ -1,6 +1,10 @@
 # Change Log
 📅 [2020-06-06](https://arunsah.github.io/meta/changelog#2020-06-06) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
+#### 2020-06-08
+- Updated [`/linux/prog.md`](https://arunsah.github.io/linux/prog), added [`Chapter 1: History and Standards`](https://arunsah.github.io/linux/prog#chapter-1-history-and-standards)
+
+
 #### 2020-06-07
 - Created [`/ms/db-architecture.md`](https://arunsah.github.io/ms/db-architecture) Database architecture in Microservices.
 - Created [`/ms/index.md`](https://arunsah.github.io/algo) to restructure topics related to microservices.
