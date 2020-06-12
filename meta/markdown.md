@@ -41,13 +41,14 @@ Turns into This is Blue italic.
 }
 
 .content {
-  padding: 0 18px;
+  padding: 10px 18px;
   display: none;
   overflow: hidden;
   background-color: #f1f1f1;
 }
 </style>
 
+- <https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible>
 
 <div>
 
@@ -95,6 +96,8 @@ for (i = 0; i < coll.length; i++) {
   });
 }
 </script>
+
+
 
 <details>
 <summary>
