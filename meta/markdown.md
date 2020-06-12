@@ -12,10 +12,46 @@
 Turns into This is Blue italic.
 
 
+###### Testing Mix-HTML for Github Page
 
-<span style="color:red">-end-</span>
+- Coloured Text:
 
-$\color{#0000ff}{-end-}$
+<span style="color:red">red color text</span>
 
-<span style="color:red" onclick="javascript:alert('end');">-end-</span>
+- Javascript alert Text:
+
+<span style="color:blue; width:200px; border:1px solid deepblue;" onclick="javascript:alert('end');">Blue Button</span>
+
+
+<style>
+.content {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+</style>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+</script>
+
+<button type="button" class="collapsible">Open Collapsible</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
 
