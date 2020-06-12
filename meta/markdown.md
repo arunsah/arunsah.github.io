@@ -14,3 +14,5 @@ Turns into This is Blue italic.
 
 
 <span style="color:red">-end-</span>
+$\color{#0000ff}{-end-}$
+<span style="color:red" onclick="javascript:alert('end');">-end-</span>
