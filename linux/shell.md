@@ -1,6 +1,15 @@
 # Shell
 📅 [2020-05-01](https://arunsah.github.io/meta/changelog#2020-05-01) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
+
+### Deleting Files
+
+https://askubuntu.com/questions/707924/how-to-delete-this-files-with-wildcards-in-ubuntu-terminal
+
+```shell
+rm -rf ./*.txt
+```
+
 --- 
 ### Add Environment Variable to PATH
 
@@ -78,3 +87,33 @@ mario@mario:~$ sudo apt-get update
 mario@mario:~$ sudo apt update
 
 ```
+
+### Checksum (on Mac)
+
+https://medium.com/@EvgeniIvanov/how-to-verify-checksum-on-mac-988f166b0c4f
+
+```shell
+#other algorithms: 1, 256, 512
+shasum -a 512 <absulute_file_path>
+
+#other algorithms: sha1, sha256, sha512
+openssl sha512 <absulute_file_path>
+
+md5 <absulute_file_path>
+
+openssl md5 <absulute_file_path>
+```
+
+
+
+### Eclipse - Maven
+
+https://stackoverflow.com/questions/18790106/eclipsemaven-src-main-java-not-visible-in-src-folder-in-package-explorer
+
+https://stackoverflow.com/a/31674132
+
+- Right click the Maven Project -> Build Path -> Configure Build Path
+- In Order and Export tab, you can see the message like '2 build path entries are missing'
+- Now select 'JRE System Library' and 'Maven Dependencies' checkbox
+- Click OK
+
