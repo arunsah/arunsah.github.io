@@ -1,6 +1,9 @@
 # Change Log
 📅 [2020-06-06](https://arunsah.github.io/meta/changelog#2020-06-06) 🖊️ [@arunsah](https://github.com/arunsah) 🧭 [Pune, India](https://en.wikipedia.org/wiki/Hinjawadi)
 
+#### 2020-08-21
+- Created [`/ms/jpa-data.md`](https://arunsah.github.io/ms/jpa-data), added [`Spring Data JPA : ManyToMany <-> ManyToMany and ManyToMany <-> OneToMany`](https://arunsah.github.io/ms/jpa-data#manytomany---manytomany-and-manytomany---onetomany)
+
 #### 2020-06-08
 - Updated [`/linux/prog.md`](https://arunsah.github.io/linux/prog), added [`Chapter 1: History and Standards`](https://arunsah.github.io/linux/prog#chapter-1-history-and-standards)
 
